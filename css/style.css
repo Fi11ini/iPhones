@@ -94,3 +94,36 @@ body {
     color: white;
     padding: 22px 117px 19px;
 }
+
+.new {
+    padding: 90px 0 150px;
+}
+
+.new-title {
+    margin: 0 0 50px;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    color: #717171;
+    text-align: center;
+    line-height: 39px;
+}
+
+.new-info {
+    display: flex;
+}
+
+.new-text p {
+    margin: 0 0 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
